@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1, .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: #888;
+        font-family: Helvetica, Helvetica;
+        font-size: 22px;
+        letter-spacing: .32em;
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+
+      .st3 {
+        fill: gold;
+        font-family: DINAlternate-Bold, 'DIN Alternate';
+        font-size: 62px;
+        font-weight: 700;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" y="0" width="512" height="512" rx="116" ry="116"/>
+    </clipPath>
+  </defs>
+  <rect y="0" width="512" height="512" rx="116" ry="116"/>
+  <g class="st4">
+    <g class="st1">
+      <text class="st2" transform="translate(158.31 214)"><tspan x="0" y="0">BRIGHTDATE</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st3" transform="translate(118.52 298)"><tspan x="0" y="0">9627.47168</tspan></text>
+    </g>
+  </g>
+</svg>

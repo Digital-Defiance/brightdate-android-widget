@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose Widget Color"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <View
+        android:id="@+id/colorPreview"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginBottom="16dp"
+        android:background="#F5C518" />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Red" />
+    <SeekBar android:id="@+id/seekRed" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="255" />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Green" android:layout_marginTop="8dp"/>
+    <SeekBar android:id="@+id/seekGreen" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="255" />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Blue" android:layout_marginTop="8dp"/>
+    <SeekBar android:id="@+id/seekBlue" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="255" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Save" />
+
+</LinearLayout>

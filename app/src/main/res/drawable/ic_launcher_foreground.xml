@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylised "BD" mark in BrightDate yellow, centered within the 72dp safe zone. -->
+    <group
+        android:translateX="22"
+        android:translateY="38">
+        <path
+            android:fillColor="#F5C518"
+            android:pathData="M0,0 L0,32 L14,32 C22,32 26,28 26,23 C26,19 23,16 19,15 C22,14 24,11 24,8 C24,3 20,0 13,0 Z M6,5 L13,5 C16,5 18,7 18,9 C18,11 16,13 13,13 L6,13 Z M6,18 L14,18 C17,18 19,20 19,22 C19,24 17,27 14,27 L6,27 Z" />
+        <path
+            android:fillColor="#F5C518"
+            android:pathData="M34,0 L34,32 L46,32 C56,32 64,25 64,16 C64,7 56,0 46,0 Z M40,5 L46,5 C53,5 58,9 58,16 C58,23 53,27 46,27 L40,27 Z" />
+    </group>
+</vector>
