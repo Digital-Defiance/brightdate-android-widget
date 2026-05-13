@@ -1,5 +1,7 @@
 # BrightDate Android Widget
 
+![https://github.com/Digital-Defiance/brightdate-android-widget/blob/main/brightdate-feature-graphic.png](https://github.com/Digital-Defiance/brightdate-android-widget/blob/main/brightdate-feature-graphic.png)
+
 A minimal Android home-screen widget that displays the current
 [BrightDate](https://brightdate.brightchain.org) value — a single scalar
 count of SI days since the J2000.0 astronomical epoch.
